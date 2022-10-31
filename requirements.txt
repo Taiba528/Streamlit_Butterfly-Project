@@ -1,7 +1,6 @@
 altair==4.2.0
 attrs==22.1.0
 backports.zoneinfo==0.2.1
-bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 blinker==1.5
 cachetools==5.2.0
 certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
