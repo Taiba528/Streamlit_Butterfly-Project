@@ -3,7 +3,6 @@ attrs==22.1.0
 backports.zoneinfo==0.2.1
 blinker==1.5
 cachetools==5.2.0
-cffi @ file:///C:/Windows/Temp/abs_6808y9x40v/croots/recipe/cffi_1659598653989/work
 charset-normalizer==2.1.1
 click==8.1.3
 colorama @ file:///C:/Windows/TEMP/abs_9439aeb1-0254-449a-96f7-33ab5eb17fc8apleb4yn/croots/recipe/colorama_1657009099097/work
