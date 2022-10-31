@@ -6,7 +6,6 @@ cachetools==5.2.0
 charset-normalizer==2.1.1
 click==8.1.3
 commonmark==0.9.1
-debugpy @ file:///C:/ci/debugpy_1637091911212/work
 decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 entrypoints @ file:///C:/ci/entrypoints_1649926659561/work
