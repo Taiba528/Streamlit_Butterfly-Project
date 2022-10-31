@@ -3,7 +3,6 @@ argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644569848815/work
 attrs==22.1.0
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 backports.zoneinfo==0.2.1
-beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650292996413/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 blinker==1.5
 cachetools==5.2.0
